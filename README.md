@@ -1,0 +1,1 @@
+This repository demonstrates a common Java error: ConcurrentModificationException.  The example shows how this exception occurs when modifying an ArrayList directly while iterating using a for-each loop.  The solution provided uses an Iterator to safely remove elements during iteration.  This is a critical concept in multi-threaded programming and data structures in Java.
